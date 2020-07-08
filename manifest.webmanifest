@@ -4,8 +4,8 @@
   "theme_color": "#3f729b",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/newscollection/",
-  "start_url": "/newscollection/index.html",
+  "scope": "/newsapp/",
+  "start_url": "/newsapp/index.html",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
